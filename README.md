@@ -1,40 +1,54 @@
-<div align="center">
-  
-# ¡Hola, soy Cristian! 👋
+<h1 align="center">Cristian Castro</h1>
+<h3 align="center">Analista de Mejora Continua | Desarrollador Python</h3>
 
-**Analista de Mejora Continua | Desarrollador Python | Entusiasta del Hardware**
+<hr>
 
-</div>
-
-Me dedico a encontrar el camino más eficiente para que las cosas funcionen. Ya sea automatizando flujos de trabajo logísticos, procesando datos marítimos o desarrollando herramientas de escritorio, mi objetivo es hacer que la tecnología haga el trabajo pesado. 
-
-### 🛠️ Tech Stack & Herramientas
-
-<div align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JS" />
-</div>
+<p>Especialista en identificar cuellos de botella y diseñar soluciones tecnológicas eficientes. Mi enfoque se centra en la automatización de flujos de trabajo logísticos, el procesamiento de datos marítimos y el desarrollo de herramientas de escritorio orientadas a optimizar operaciones complejas y reducir la carga manual.</p>
 
 <br>
 
-### 🚀 Sobre mí
+<details>
+  <summary><strong>1. Stack Tecnológico y Herramientas</strong> (Haz clic para expandir)</summary>
+  <br>
+  <table>
+    <tr>
+      <td><strong>Desarrollo de Software</strong></td>
+      <td>Python, PyQt6, HTML, JavaScript</td>
+    </tr>
+    <tr>
+      <td><strong>Datos y Análisis</strong></td>
+      <td>SQL, Pandas, KNIME, Web Scraping</td>
+    </tr>
+    <tr>
+      <td><strong>Infraestructura y Sistemas</strong></td>
+      <td>Google Cloud (VMs Debian), Arquitectura de Hardware</td>
+    </tr>
+  </table>
+</details>
 
-* 🚢 Actualmente enfocado en la **automatización de procesos logísticos**, gestión de bases de datos y creación de aplicaciones modulares (como mi proyecto *Task Force* con PyQt6).
-* 🧠 Curioso por naturaleza: me gusta explorar desde simuladores de geometría multidimensional hasta la optimización extrema de consultas SQL. 
-* 🏍️ **Fuera del teclado:** Cuando no estoy depurando código o sacándole el máximo rendimiento a un procesador Xeon en un ensamble de PC, me puedes encontrar rodando por Puerto Cabello en mi RK 200, gestionando el tráfico en *Cities: Skylines* o armando bases en *Subnautica*.
+<hr>
 
-### 📊 Mis Estadísticas en GitHub
+<details>
+  <summary><strong>2. Enfoque Actual y Proyectos</strong> (Haz clic para expandir)</summary>
+  <br>
+  <ul>
+    <li><strong>Desarrollo de Aplicaciones Modulares:</strong> Creación de interfaces de escritorio como el proyecto <em>Task Force</em> utilizando Python y PyQt6 para centralizar operaciones.</li>
+    <li><strong>Consolidación de Datos:</strong> Diseño e implementación de consultas SQL complejas para unificar registros financieros a través de múltiples instancias de sistemas.</li>
+    <li><strong>Automatización en la Nube:</strong> Configuración y mantenimiento de scripts de monitoreo diario ejecutados desde máquinas virtuales en Google Cloud.</li>
+  </ul>
+</details>
+
+<hr>
+
+<details>
+  <summary><strong>3. Intereses Técnicos Adicionales</strong> (Haz clic para expandir)</summary>
+  <br>
+  <p>La resolución de problemas se extiende más allá del software. Dedico tiempo al ensamblaje, diagnóstico y optimización de hardware a nivel de componentes (procesadores de servidor, configuración de placas base y sistemas de refrigeración). Paralelamente, exploro conceptos analíticos como la geometría multidimensional y la optimización de recursos en sistemas de simulación.</p>
+</details>
+
+<br>
+<hr>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-<div align="center">
-  <em>Siempre buscando la mejora continua, tanto en el código como en el hardware.</em> ⚙️
+  <p><em>Buscando siempre la mejora continua, tanto en la lógica del código como en la arquitectura del hardware.</em></p>
 </div>
